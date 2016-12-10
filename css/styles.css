@@ -153,13 +153,8 @@ h3 {
 }
 .work-box {
     padding: 0;
-    filter: grayscale(0%);
-    transition: filter 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
-.work-box:hover {
-    padding: 0;
-    filter: grayscale(100%);
-}
+
 /***** CONTACT *****/
 #contact {
     background-color: #1F2124;
